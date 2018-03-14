@@ -1,6 +1,4 @@
 # robindrew-sizeof
-Sizeof library for Java
-
 This library is very simple to use:
 
     // The object you want to measure the memory of
